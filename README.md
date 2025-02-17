@@ -1,6 +1,6 @@
 ### <div align="center">Fullstack developer</div>  
   
-💡 I’m proficient in ASP.NET MVC following the CLEAR architecture.
+💡 I’m proficient in ASP.NET MVC following the CLEAN architecture.
 <br/>
 
 🚀 I’m currently exploring React.
